@@ -5,5 +5,5 @@ Excel Sheets/Quantitative Data
 - [Maryland : Raw Data](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQBMj6l2E3ELRonCU_aa66qOAUUUYkv3o-H2R9m2O9Xc90A?e=eA5Dsp)
 - [Maryland : Data of Interest](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQAszf4evhX1RZsqZr1A-tO4AcRzVk_LN1kLT00xGmUrokY?e=BklBHf)
 
-Articals/Qualitative Data
+Articles/Qualitative Data
 - [Variables Affecting Crime - Federal Bureau of Investigation](https://ucr.fbi.gov/nibrs/2012/resources/variables-affecting-crime)
