@@ -1,4 +1,5 @@
-# maryland-crime-population-income
+# Maryland Crime Population Income
+
 A look at the relationship between violent/property crime, income, and population by county in Maryland from 2013-2020
 
 Excel Sheets/Quantitative Data
